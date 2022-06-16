@@ -1,0 +1,72 @@
+/* body{
+    background-color: 
+} */
+section{
+    width: 50%;
+    margin: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 400px;
+    padding: 40px;
+    background-color: lightslategray;
+    align-items: center;
+}
+.top{
+    width: 20px;
+    height: 10px;
+    background-color: beige;
+    margin-left: 5px;
+}
+/* div{
+    width: 30px;
+    height: 70px;
+    background-color: aqua;
+     */
+
+.stand{
+    width: 30px;
+    height: 300px;
+    background-color: rgb(0, 0, 0);
+    display: inline-table;
+    background: linear-gradient(90deg, rgb(0,0,0), 70%, rgb(223, 18, 18), rgb(2, 51, 2));
+    /* margin-left: 20px; */
+}
+
+.green, .white{
+    width: 75px;
+    height: 100px;
+    background-color: rgb(2, 51, 2);
+    margin-bottom: 190px;
+    display: inline-table;
+    /* margin-left: 20px; */
+}
+
+.white{
+    width: 75px;
+    height: 100px;
+    background-color: rgb(255, 255, 255);
+    border-color: rgb(2, 51, 2);
+}
+h1{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+p{
+    margin-bottom: 10px;
+    font: 1em sans-serif;
+    text-align: center;
+}
+hr{
+    background-color:  rgb(2, 51, 2);
+    height: 2px;  
+}
+.one{
+    width: 50px;
+    background-color: gray;
+    
+}
+a:hover{
+    color: rgb(71, 14, 14);
+}

@@ -1,0 +1,63 @@
+body{
+    background-color: rgb(31, 11, 11);
+    font-family: sans-serif;
+}
+section{
+    background-color: burlywood;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
+}
+h1, h2, p{
+    text-align:center;
+}
+h1,h2{
+    font-family:Impact, serif;
+    margin-bottom: 10px;
+}
+.items p{
+    display: inline-block;
+    
+}
+.faith{
+    text-align:left ;
+    width: 70%;
+
+    
+}
+.price{
+    text-align: right;
+    width:30%
+}
+hr{
+    height: 4px;
+    background-color: brown;
+    border: brown;
+}
+p{
+    margin-bottom: 2px;
+}
+a:hover{
+    color: brown;
+}
+a:active{
+    color: white;
+}
+.bottom-line{
+    margin-top: 25px;
+}
+img{
+    margin-left:47%;
+    margin-right:50%;
+    width: 5%;
+}
+.edit{
+    width: 50px;
+    height: 20px;
+    margin-left:44% ;
+}
+/* h1{
+    margin-top: -2px; */
+

@@ -1,0 +1,21 @@
+h3{
+    font-size: large;
+    box-shadow: 2px 4px 6px;
+}
+p{
+    color: red;
+}
+.next{
+    border: dashed;
+    background-color: burlywood;
+    margin: 10%;
+}
+
+#language{
+    text-align:justify ;
+    margin: 10%;
+    margin-top: 200px;
+}
+/* h3{
+    font-size: 100px;
+} */
